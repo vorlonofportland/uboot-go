@@ -1,7 +1,7 @@
 Source: golang-github-mvo5-uboot-go
 Section: devel
 Priority: extra
-Maintainer: Michael Vogt <mvo@ubuntu.com>
+Maintainer: Steve Langasek <vorlon@debian.org>
 Build-Depends:
  debhelper (>= 9),
  dh-golang,
