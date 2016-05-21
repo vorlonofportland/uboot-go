@@ -1,4 +1,3 @@
-[![Build Status][travis-image]][travis-url] 
 # Read/write uboot environment
 
 Small go package/app to read/write uboot env files that contain crc32 + 1 byte
@@ -53,5 +52,3 @@ $ uboot-go uboot.env print
 foo=bar
 ```
 
-[travis-image]: https://travis-ci.org/mvo5/uboot-go.svg?branch=master
-[travis-url]: https://travis-ci.org/mvo5/uboot-go
