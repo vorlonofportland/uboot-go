@@ -2,6 +2,7 @@ golang-github-mvo5-uboot-go (0~3.git69978a3-1) UNRELEASED; urgency=medium
 
   * Initial Debian upload.
   * Update Standards-Version.
+  * Update Vcs-* fields.
 
  -- Steve Langasek <vorlon@debian.org>  Sat, 21 May 2016 16:18:41 -0700
 
