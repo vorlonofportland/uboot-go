@@ -1,11 +1,11 @@
-golang-github-mvo5-uboot-go (0~3.git69978a3-1) UNRELEASED; urgency=medium
+golang-github-mvo5-uboot-go (0~3.git69978a3-1) unstable; urgency=medium
 
   * Initial Debian upload.
   * Update Standards-Version.
   * Update Vcs-* fields.
   * Remove empty directory from package.
 
- -- Steve Langasek <vorlon@debian.org>  Sat, 21 May 2016 16:18:41 -0700
+ -- Steve Langasek <vorlon@debian.org>  Sat, 21 May 2016 23:20:39 +0000
 
 golang-github-mvo5-uboot-go (0~3.git69978a3-0ubuntu5) xenial; urgency=medium
 
